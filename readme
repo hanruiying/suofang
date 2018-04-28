@@ -1,0 +1,3 @@
+实现的功能：图片的顺时针，逆时针旋转，以及缩小，放大的功能，且可以在点击图片弹出大图框的时候能达到上下切换的效果。
+主要用到的语句：transform：rotate（ degree）； transform：scale（）；
+效果展示：https://hanruiying.github.io/suofang/
